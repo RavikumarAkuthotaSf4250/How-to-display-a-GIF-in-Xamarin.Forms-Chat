@@ -3,7 +3,6 @@ This sample describes how to display a GIF as message in Xamarin.Forms Chat (SfC
 Image message in SfChat : https://help.syncfusion.com/xamarin/chat/messages#image-message
 
 ## Sample
-
 ```xaml
 
     <ContentPage.Resources>
